@@ -1,21 +1,16 @@
-Explanation about files
+#WhiteCollorMentalHealth
 
-0. README.md : Brief summary of the area you are working in. This should inspire viewers to join your project as a contributor. 
+As part of this initiative we have decided to meet every day via zoom call to discuss various mental health issues white collor workers might face once they are back to work post lockdown.
 
-1. challenges.txt : This file will contain what are the challenges you are addressing and what is the scope.
+#Why only WhiteCollor ?
 
-2. instructions-for-contributors.txt : This file will contain instructions for the contributors. Assumptions / direction / anything which contributors need to keep in mind.
+If a white collor employee is at mental health he will give job to ten different blue collor workers. So directly helping few people will indirectly help so many people.
 
-3. contributors.txt : List of contributors & their specialization working on the challenges.
+#What is the end goal ?
 
-4. solution-summary.txt : A summary of solutions discussed to date.
+Probably 100 possible minor to major issues which white collor employees might face once lockdown is removed and they report back to work with some probable solutions to them. 
 
-5. data : List of data files gathered to add as references for the final solution.
+#Who will benfit for this exercise ?
 
-6. discussions : Minutes of discussions or zoom meeting video files anything to keep track of the work happened till now.
+Startups, People Managers, HR Leaders who are concerned about their team members mental health.
 
-7. authorities-to-inform.txt : Who are the authorities the final report needs to be presented.
-
-8. FinalReport.docx : A Final Report with all the challenges, proposed solutions.
-
-9. FinalPresentation.pptx : A Final presentation with a quick summary of challenges & proposed solutions.
